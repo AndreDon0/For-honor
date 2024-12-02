@@ -1,0 +1,5 @@
+fps: 30
+scale_percent: 10
+Video_write: False
+Log_write: False
+Fragments_write: False
